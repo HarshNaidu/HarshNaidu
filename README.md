@@ -1,24 +1,24 @@
-<h1 align="center">Hi 👋, I'm Harsh <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">Aspiring Data Scientist | Machine Learning • Deep Learning • Analytics</h3>
+<h1 align="center">Hi 👋, I'm Harsh</h1>
+<h3 align="center">Java Backend Developer | Spring Boot • REST APIs • SQL</h3>
 
 <p align="center">
-Data Science enthusiast focused on turning raw data into insights and models.  
-Actively working with machine learning and deep learning frameworks, while building  
-a strong foundation in statistics, data analysis, and algorithmic thinking.
+200+ LeetCode problems solved and counting<br/>
+Building backend systems and analytics platforms
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 Working on **Data Science, Machine Learning & Deep Learning projects**
-- 🌱 Learning **ML algorithms, Neural Networks, and statistical foundations**
-- 🧠 Exploring **model tuning, evaluation, and real-world data pipelines**
-- 📊 Interested in **predictive analytics, computer vision, and applied ML**
-- 👯 Open to collaborating on **ML / DL / Data Science projects**
-- 📫 How to reach me:  
+- 💻 Backend-focused developer working primarily with **Java and Spring Boot**
+- 🧠 Strong interest in **backend architecture, APIs, and data-driven systems**
+- 📈 Solved **200+ LeetCode problems** to strengthen problem-solving and DSA
+- ⚙️ Currently building backend projects involving **API integrations, analytics, and system design**
+- 🚀 Exploring **scalable backend systems, caching, and background processing**
+- 📫 Reach me at:  
   <a href="mailto:naiduharsh45@gmail.com">naiduharsh45@gmail.com</a>
-- ⚡ Interests: **Data, football, music, and building intelligent systems**
+
+⚡ Interests: **Software engineering, football, music, and building useful systems**
 
 ---
 
@@ -42,25 +42,32 @@ a strong foundation in statistics, data analysis, and algorithmic thinking.
 
 <h3 align="center">Languages & Tools</h3>
 <p align="center">
-  <!-- (unchanged – your full tools section stays as-is) -->
+<!-- keep your current icons section here -->
 </p>
 
 ---
 
 <h3 align="center">Currently Learning & Exploring</h3>
 <p align="center">
-• Deep Learning (ANNs, CNNs, basic architectures) <br/>
-• TensorFlow & Keras workflows <br/>
-• Feature engineering & model optimization <br/>
-• Statistics & probability for ML <br/>
-• Algorithmic thinking with DSA
+• Spring Boot backend architecture <br/>
+• REST API design and system structure <br/>
+• Database design with SQL & PostgreSQL <br/>
+• Caching strategies (Redis) <br/>
+• Backend system design and scalability <br/>
+• Algorithmic thinking with Data Structures & Algorithms
 </p>
 
 ---
 
-<h3 align="center">GitHub Stats</h3> <p align="center"> <img height="150" src="https://github-readme-stats.vercel.app/api?username=HarshNaidu&theme=react&show_icons=true&include_all_commits=true" /> <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshNaidu&theme=react&layout=compact" /> </p>
+<h3 align="center">GitHub Stats</h3>
+
+<p align="center">
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=HarshNaidu&theme=react&show_icons=true&include_all_commits=true" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshNaidu&theme=react&layout=compact" />
+</p>
+
 ---
 
 <p align="center">
-  <i>Made with ❤️ by <a href="https://github.com/HarshNaidu">HarshNaidu</a></i>
+<i>Built and maintained by <a href="https://github.com/HarshNaidu">Harsh Naidu</a></i>
 </p>
