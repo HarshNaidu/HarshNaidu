@@ -15,7 +15,7 @@ Solving problems with clean backend architecture and data-driven applications
 - 🧠 Strong interest in **backend architecture, system design, and scalable applications**
 - 📊 Experience working with **SQL databases such as PostgreSQL and MySQL**
 - ☁️ Explored **enterprise AI and cloud deployment concepts using SAP BTP, AI Core, and AI Launchpad**
-- 📈 Solved **200+ LeetCode problems** to strengthen problem-solving and DSA
+- 📈 Solved **250+ LeetCode problems** to strengthen problem-solving and DSA
 
 📫 Reach me at:  
 <a href="mailto:naiduharsh45@gmail.com">naiduharsh45@gmail.com</a>
