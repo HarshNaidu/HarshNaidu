@@ -20,7 +20,7 @@ Solving problems with clean backend architecture and data-driven applications
 📫 Reach me at:  
 <a href="mailto:naiduharsh45@gmail.com">naiduharsh45@gmail.com</a>
 
-⚡ Interests: **Software engineering, backend systems, football, and building useful tools**
+⚡ Interests: **Software engineering, backend systems, football, and games**
 
 ---
 
