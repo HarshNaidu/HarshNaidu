@@ -74,3 +74,7 @@ Solving problems with clean backend architecture and data-driven applications
 <p align="center">
 <i>Built and maintained by <a href="https://github.com/HarshNaidu">Harsh Naidu</a></i>
 </p>
+
+<div align = "center">
+  <img src="https://raw.githubusercontent.com/HarshNaidu/HarshNaidu/output/github-snake-dark.svg"/>
+</div>
